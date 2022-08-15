@@ -1,1 +1,30 @@
-[{"currency":"0XBTC","price":"0.19788058"},{"currency":"1337","price":"0.00002174"}]
+[
+  {
+    "id": 1,
+    "name": "Barış Aydın",
+    "image": "https://cdn3.iconfinder.com/data/icons/business-avatar-1/512/11_avatar-512.png",
+    "age": "29",
+    "gender": "Male"
+  },
+  {
+    "id": 2,
+    "name": "Meryem Gezici",
+    "image": "https://cdn3.iconfinder.com/data/icons/business-avatar-1/512/11_avatar-512.png",
+    "age": "22",
+    "gender": "Female"
+  },
+  {
+    "id": 3,
+    "name": "Ece Su",
+    "image": "https://cdn.dribbble.com/users/1040983/screenshots/5623641/media/007e7f10155f637c061519447926a947.png?compress=1&resize=400x300",
+    "age": "25",
+    "gender": "Female"
+  },
+  {
+    "id": 4,
+    "name": "Yusuf Altın",
+    "image": "https://cdn.dribbble.com/users/1040983/screenshots/5623641/media/007e7f10155f637c061519447926a947.png?compress=1&resize=400x300",
+    "age": "19",
+    "gender": "Male"
+  }
+]
