@@ -1,4 +1,4 @@
-[{"id": 1,"name": "Barış Aydın","age":29,"gender": "Male"},{"id": 1,"name": "Barış Aydın","age":29,"gender": "Male"}]
+[{"id": 1,"name": "Barış Aydın","age":"29","gender": "Male"},{"id": 1,"name": "Barış Aydın","age":"29","gender": "Male"}]
 
 
 
